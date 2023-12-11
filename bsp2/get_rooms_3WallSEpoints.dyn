@@ -2,7 +2,7 @@
   "Uuid": "3c9d0464-8643-5ffe-96e5-ab1769818209",
   "IsCustomNode": false,
   "Description": "",
-  "Name": "get_rooms_3",
+  "Name": "get_rooms_3WallSEpoints",
   "ElementResolver": {
     "ResolutionMap": {
       "DSCore.Object": {
@@ -380,7 +380,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\kmsil\\Desktop\\Desktop\\School\\S3\\bsp3\\bsp2\\oetrange.xlsx",
+      "HintPath": "C:\\Users\\kmsil\\Desktop\\bsp3\\bsp2\\oetrange.xlsx",
       "InputValue": ".\\oetrange.xlsx",
       "NodeType": "ExtensionNode",
       "Id": "d61c35459a6a4424927c296fd61d488b",
@@ -6721,7 +6721,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\kmsil\\Desktop\\Desktop\\School\\S3\\bsp3\\bsp2\\AllTogether",
+      "HintPath": "C:\\Users\\kmsil\\Desktop\\bsp3\\bsp2\\AllTogether",
       "InputValue": ".\\AllTogether",
       "NodeType": "ExtensionNode",
       "Id": "46412a2f2c16457f9fd4555dab8c1bc0",
@@ -7480,7 +7480,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\kmsil\\Desktop\\Desktop\\School\\S3\\bsp3\\bsp2\\AllTogether",
+      "HintPath": "C:\\Users\\kmsil\\Desktop\\bsp3\\bsp2\\AllTogether",
       "InputValue": ".\\AllTogether",
       "NodeType": "ExtensionNode",
       "Id": "98a6951922504b66b3a65fc49d82a490",
@@ -8266,7 +8266,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\kmsil\\Desktop\\Desktop\\School\\S3\\bsp3\\bsp2\\AllTogether",
+      "HintPath": "C:\\Users\\kmsil\\Desktop\\bsp3\\bsp2\\AllTogether",
       "InputValue": ".\\AllTogether",
       "NodeType": "ExtensionNode",
       "Id": "c90b9f6a3189492aae078edff42e0955",
@@ -9830,7 +9830,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\kmsil\\Desktop\\Desktop\\School\\S3\\bsp3\\bsp2\\AllTogether",
+      "HintPath": "C:\\Users\\kmsil\\Desktop\\bsp3\\bsp2\\AllTogether",
       "InputValue": ".\\AllTogether",
       "NodeType": "ExtensionNode",
       "Id": "bed5df4f0a5a409a8b88f6840784f842",
@@ -10345,7 +10345,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\kmsil\\Desktop\\Desktop\\School\\S3\\bsp3\\bsp2\\AllTogether",
+      "HintPath": "C:\\Users\\kmsil\\Desktop\\bsp3\\bsp2\\AllTogether",
       "InputValue": ".\\AllTogether",
       "NodeType": "ExtensionNode",
       "Id": "db747c1409db4b7cb7c93803df90d097",
@@ -14054,7 +14054,7 @@
     },
     {
       "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
-      "HintPath": "C:\\Users\\kmsil\\Desktop\\Desktop\\School\\S3\\bsp3\\bsp2\\AllTogether",
+      "HintPath": "C:\\Users\\kmsil\\Desktop\\bsp3\\bsp2\\AllTogether",
       "InputValue": ".\\AllTogether",
       "NodeType": "ExtensionNode",
       "Id": "0d81ba43badc4299ab379ea469113fde",
@@ -22764,8 +22764,8 @@
         "Background": "#FFC1D676"
       }
     ],
-    "X": -18692.027749688452,
-    "Y": 8999.56791828695,
-    "Zoom": 1.0611665719899364
+    "X": 863.31123184768842,
+    "Y": 736.08552611250536,
+    "Zoom": 0.047194916111426767
   }
 }
